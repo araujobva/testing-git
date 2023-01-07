@@ -1,5 +1,5 @@
 class Model {
- 	String name;
-	String password;
-	int idade;	
+ 	double valor1;
+	double valor2;
+	double valor3;	
 }
