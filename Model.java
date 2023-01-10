@@ -1,5 +1,5 @@
 class Model {
- 	double valor1;
-	double valor2;
-	double valor3;	
+ 	int valor1;
+	int valor2;
+	int valor3;	
 }
